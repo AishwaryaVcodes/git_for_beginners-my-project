@@ -1,4 +1,5 @@
 Welcome to My Project!
 
-Author: Aishwarya V
+
+Author: Aishwarya V Shankar
 Twitter: @aishwarya
